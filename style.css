@@ -1,0 +1,31 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    background-color: #bbd5f0; /* Dark background color for a cool vibe */
+    color: #000000; /* Light text color for better contrast */
+    margin: 0;
+    padding: 20px;
+  }
+  
+  #game-container {
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px; /* Slightly increase border radius for a softer appearance */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3); /* Increase shadow for a more prominent depth */
+    background-color: #3498db; /* Change background color for a vibrant look */
+  }
+  
+  #guess-input {
+    margin-top: 10px;
+    padding: 15px; /* Increase padding for a larger input field appearance */
+    border: 2px solid #000000; /* Change border color for a bold separation */
+    border-radius: 6px;
+    color: #2c3e50; /* Darken text color for better visibility */
+  }
+  
+  #word-display {
+    font-weight: bold;
+    font-size: 24px; /* Increase font size for emphasis */
+    margin-top: 30px; /* Further increase top margin for better spacing */
+    color: #e7723c; /* Change text color for a contrasting effect */
+  }
